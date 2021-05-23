@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./fundos/paginas.jpg);
+}
+
+#home{
+    text-align: center;
+    margin-left: 18%;
+    margin-right: 18%;
+    color: white;
+    line-height: 14px;
+    margin-top: 23px;
+    background-color: rgba(32, 32, 32, 0.5);
+}
+
+#home >h2{
+    font-size: 20px;
+}
+
+#certif{
+    border-radius: 8px;
+}

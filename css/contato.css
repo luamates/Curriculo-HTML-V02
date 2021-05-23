@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./fundos/paginas.jpg);
+}
+
+#home{
+    text-align: center;
+    margin-left: 18%;
+    margin-right: 18%;
+    color: white;
+    line-height: 14px;
+    margin-top: 23px;
+    background-color: rgba(32, 32, 32, 0.5);
+}
+
+#hire{
+    border-radius: 10px;
+}
+
+#info > h2{
+    font-size: 18px;
+}
+
+#redes > a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#redes > a:hover{
+    color: rgb(92, 92, 223);
+}
